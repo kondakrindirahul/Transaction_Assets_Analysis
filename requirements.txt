@@ -1,0 +1,10 @@
+pandas
+numpy
+geopy
+math
+seaborn
+matplotlib
+gmplot
+pymysql
+argparse
+

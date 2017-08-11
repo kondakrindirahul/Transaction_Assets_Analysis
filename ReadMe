@@ -1,0 +1,14 @@
+
+- This Script has been coded in Jupyter Notebooks and has been made available as
+  a python script, ipython notebook and html file.
+
+- Steps to run the program
+  - unzip the file to the desired location
+  - open terminal and type
+    
+      $Single_Transaction_Assets_Analysis.py
+ 
+  - Enter the inputs after prompt
+
+- Alternatively, click the Single_Transaction_Assets_Analysis.html to view the static content
+  of the task in the browser.
